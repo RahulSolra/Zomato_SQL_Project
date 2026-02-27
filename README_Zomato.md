@@ -25,14 +25,14 @@ This project demonstrates the implementation of a Zomato-style Food Delivery Man
 ### 1. Database Setup
 ![ERD](https://github.com/RahulSolra/Zomato_SQL_Project/blob/main/ERD.png)
 
-- **Database Creation**: Created a database named `Zomato_P3`.
+- **Database Creation**: Created a database named `Zomato_Query`
 ### 2.Table Creation 
   1.Created tables for customers, restaurants, orders, riders, and deliveries.
   
   2.Defined relationships using primary and foreign keys to ensure data consistency.
 
 ```sql
-CREATE DATABASE Zomato_P3;
+CREATE DATABASE Zomato_Query;
 
 CREATE TABLE customers
 (
@@ -48,7 +48,6 @@ restaurant_name VARCHAR(55),
 city VARCHAR(15),
 opening_hours VARCHAR(55)
 );
-
 
 CREATE TABLE orders
 (
@@ -412,5 +411,5 @@ where peak_day = 1;
 
 This project demonstrates the practical use of SQL to build and manage a food delivery management database. It covers database creation, table relationships, CRUD operations, and analytical queries. The project reflects how platforms like Zomato handle structured data for daily operations and analysis.
 
-## Author - Tanish
+## Author - Rahul Solra
 
