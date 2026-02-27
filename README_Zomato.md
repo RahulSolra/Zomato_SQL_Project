@@ -1,14 +1,14 @@
-# Zomato Datebase Management System using SQL Project --P2
+# Zomato Datebase Management System using SQL Project --
 
 ## Project Overview
 
 **Project Title**: Zomato Datebase Management System
 **Level**: Intermediate  
-**Database**: `Zomato_P3`
+**Database**: `Zomato_Query`
 
 This project demonstrates the implementation of a Zomato-style Food Delivery Management System using SQL. It focuses on designing and managing a relational database, performing CRUD operations, and executing SQL queries to analyze food ordering and delivery data. The project highlights skills in database design, data manipulation, and querying.
 
-![Zomato_project](https://github.com/tanish-6126/Zomato_Project/blob/main/Zomato-bg.png)
+![Zomato_project](https://github.com/RahulSolra/Zomato_SQL_Project/blob/main/Zomato-Business.jpeg.jpeg)
 
 ## Objectives
 
