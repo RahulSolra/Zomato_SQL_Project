@@ -371,7 +371,7 @@ where d.delivery_status ='Delivered'
 order by rider_id)a;
 ```
 
-**Task 16: Order Frequency by Day:
+**Task 15: Order Frequency by Day:
 -- Analyze order frequency per day of the week and identify the peak day for each nestaurant.**
 
 ```sql
